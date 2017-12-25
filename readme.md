@@ -1,6 +1,7 @@
 # Machine Learning Beginner
 
-Implementation of ML algorithms from scratch 
+Implementation of **SOME** ML algorithms from scratch.
+Usage of Sickit-Learn Library for others.
 
 ### How to run : 
 
